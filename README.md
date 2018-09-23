@@ -19,6 +19,6 @@ iOS 애니메이션 시작합니다.
 
 |  <center>Chapter</center> |  <center> 제목 </center> |  <center> 비고 </center> | 블로그 링크 |
 |:--------|:--------:|--------:|--------:|
-|<center> **ch1** </center> | <center> [Getting Started with View Animations](./Chapter/ch1) </center> | 작성 중 | [링크](http://linsaeng.tistory.com/12)
+|<center> **ch1** </center> | <center> [Getting Started with View Animations](./Chapter/ch1) </center> | <center>[Chapter 1 Challenges](./Chapter/ch1_Challenges)</center> | <center>[링크](http://linsaeng.tistory.com/12)</center>
 |<center> **ch2** </center>| <center> Spring </center> | 제작 중 |
 |<center> **ch3** </center>| <center> Transitions </center> | 제작 중 |
