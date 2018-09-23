@@ -289,3 +289,5 @@ UIView.animate(withDuration: 0.5, delay: 0.4,
 A지점에서 B지점으로 애니메이션을 만드는 것은 매우 쉽습니다!
 
 다음 chapter에서는 spring을 사용하여 애니메이션을 구동하는 방법을 살펴보겠습니다.
+
+ 
