@@ -1,7 +1,7 @@
 
 # Chapter2: Challenges
 
-#Challenge 1: Convert text field animations to spring- animations
+# Challenge 1: Convert text field animations to spring- animations
 
 UIKit 안의 spring 애니메이션 API와 표준? 애니메이션 매우 유사합니다. 따라서 username, password field에서 실행 중인 애니메이션을 스프링 애니메이션으로 변환하는 것은 큰 문제가 되지 않습니다.
 
