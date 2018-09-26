@@ -1,4 +1,4 @@
-#Chapter2: Spring
+# Chapter2: Spring
 
 앞 장에서는 UIkit으로 기본 애니메이션을 만드는 방법을 배웠습니다. 시작 및 종료 값을 기간, 지연 및 기타 옵션과 함께 제공함으로써 UIKit은 자동으로 애니메이션 만듭니다.
 
@@ -18,7 +18,7 @@ View는 점 A에서 점 B로 연결되지만 점 B를 작은 양만큼 overshoot
 
 그것은 멋진 효과입니다. 그것은 여러분의 애니메이션에 산뜻한 실제 느낌을 더합니다. 이장에서는 UI에 재생성을 추가하는데 이 효과를 사용하는 방법을 설명합니다.
 
-#Spring animations
+# Spring animations
 
 이전 장의 프로젝트를 계속 진행합니다. 1장의 연습(  challenge 과제 )을 완료하지 않은 경우 2장이 리소스 폴더에서 시작 프로젝트를 가져와 시작합니다.
 
@@ -89,7 +89,7 @@ UIView.animate(withDuration: 0.5, delay: 0.5, usingSpringWithDamping:
 }, completion: nil)
 ```
 
-#Animating user interactions
+# Animating user interactions
 
 스프링 애니메이션을 보기 초기 배치로 제한 할 필요는 없습니다. 실제로 사용자 입력에 대한 응답으로 view를 애니메이션하면 인터페이스가 활성화 될 수 있습니다. 이섹션에서는 탭을 눌러 로그인 버튼을 애니메이션 합니다.
 

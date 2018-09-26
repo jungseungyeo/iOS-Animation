@@ -1,12 +1,12 @@
 # chapter1 Challenges
 
-#Challenges
+# Challenges
 
 이 장이 iOS에서 보기를 처음으로 애니메이션으로 만든 경우, 머리가 약간 회전 할 수 있습니다. 하지만 걱정하지 마세요, 여러분의 초기 기술이 무엇이든지 간에, 여러분은 단지 몇 장 만에 애니메이션에 숙달하는 길을 잘 갈 것이기 때문입니다.
 
 하지만 현재로서는 아주 간단한 도전이 하나 있습니다.
 
-#Challenge 1: Fade in the clouds
+# Challenge 1: Fade in the clouds
 
 ViewController에는 cloud1, cloud2, cloud3, cloud4의 네가지 outlets을 가지고 있습니다. 작업은 application starts에서 이러한 작업을 희미하게 표시하는 것입니다.
 
